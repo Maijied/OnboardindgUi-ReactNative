@@ -1,0 +1,12 @@
+{
+  "name": "premoTestModule",
+  "displayName": "premoTestModule",
+  "expo": {
+    "name": "premoTestModule",
+    "slug": "premoTestModule",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
